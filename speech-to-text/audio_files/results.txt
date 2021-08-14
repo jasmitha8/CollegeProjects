@@ -1,0 +1,13 @@
+inputfile	input 					output(disease selected)
+a1	i have thyroid and cancer			['Thyroid', 'Cancer']
+a2	i have no diseases				['None']
+a3	i have diabetes					['Diabetes']
+a4	i have thyroid and high blood pressure		['Thyroid', 'Others']
+a5	i have high blood pressure			[]
+a6	7 lakh
+j1	i have thyriod and cancer			
+j2	i have no diseases				
+j6	7 lakh						['5lakh-10lakh']
+j7	3 lakh						['<5lakh']
+s1	i have diabetes
+s2	i have thyroid and high blood pressure
